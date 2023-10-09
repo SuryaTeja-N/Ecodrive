@@ -1,0 +1,35 @@
+{
+    "name": "eco_drive",
+    "short_name": "eco_drive",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "EcoDrive+ project.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "EcoDrive+_icon.jpeg",
+            "sizes": "192x192",
+            "type": "image/jpeg"
+        },
+        {
+            "src": "EcoDrive+_icon.jpeg",
+            "sizes": "512x512",
+            "type": "image/jpeg"
+        },
+        {
+            "src": "EcoDrive+_icon.jpeg",
+            "sizes": "192x192",
+            "type": "image/jpeg",
+            "purpose": "maskable"
+        },
+        {
+            "src": "EcoDrive+_icon.jpeg",
+            "sizes": "512x512",
+            "type": "image/jpeg",
+            "purpose": "maskable"
+        }
+    ]
+}
